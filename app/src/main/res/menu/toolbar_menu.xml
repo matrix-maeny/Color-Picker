@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/pickFromGallery"
+        android:title="Pick from an Image" />
+
+    <item
+        android:id="@+id/pickFromWheel"
+        android:title="Pick from color wheel" />
+
+    <item
+        android:id="@+id/savedColors"
+        android:title="My colors" />
+
+    <item
+        android:id="@+id/about"
+        android:title="About" />
+</menu>
